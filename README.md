@@ -15,8 +15,7 @@ Each collection is released periodically with the latest and most useful AI tool
 ## 📚 Collections
 
 ### 2025
-#### [The Ultimate AI Tools Collection Transform Your Workflow](the-ultimate-ai-tools-collection-transform-your-workflow.md)
-**Released: July 27, 2025**
+#### [The Ultimate AI Tools Collection Transform Your Workflow - July 27, 2025](the-ultimate-ai-tools-collection-transform-your-workflow.md)
 
 ---
 

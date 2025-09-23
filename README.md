@@ -15,6 +15,7 @@ Each collection is released periodically with the latest and most useful AI tool
 ## 📚 Collections
 
 ### 2025
+#### [5 Creator-Friendly AI Sites That Save Time — And Headspace - Sept 23, 2025](5-Creator-Friendly-AI-Sites-That-Save-Time-and-Headspace.md)
 #### [5 AI Sites You’ll Use Once — And Won’t Stop - Sept 02, 2025](5-AI-Sites-Youll-Use-Once-and-Wont-Stop.md)
 #### [The Ultimate AI Tools Collection Transform Your Workflow - July 27, 2025](the-ultimate-ai-tools-collection-transform-your-workflow.md)
 
